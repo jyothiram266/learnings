@@ -11,7 +11,7 @@ In this video, we will deep dive into the fundamental concepts of ECR and provid
    - Configuring AWS CLI
 4. Pushing Docker Images to ECR
 5. Pulling Docker Images from ECR
-6. Cleaning Up Resources
+6. Cleaning Up The Resources
 
 ## 1. What is AWS ECR?
 AWS Elastic Container Registry (ECR) is a fully managed container image registry service provided by Amazon Web Services (AWS). It enables you to store, manage, and deploy container images (Docker images) securely, making it an essential component of your containerized application development workflow. ECR integrates seamlessly with other AWS services like Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS).
